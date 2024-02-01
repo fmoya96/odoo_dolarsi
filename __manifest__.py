@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     "name": "Conector Odoo - BlueLytics",
-    'version': '10.0.1.0.0',
+    'version': '15.0.1.0.0',
     'category': 'Localization/Argentina',
     'sequence': 14,
     'author': 'Moldeo Interactive,Odoo Community Association (OCA)',
